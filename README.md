@@ -1,8 +1,8 @@
-# 🧩 Tiler
+#  Tiler
 
 A CLI tool to turn a folder of PNGs into a single image (collage, thumbnail).
 
-## 📦 Installation
+##  Installation
 
 ```bash
 pip install pillow
