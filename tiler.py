@@ -67,7 +67,7 @@ def tile_images_keep_aspect(
     print(f"Saved to {output_path}")
 
 
-# Example
+# compute the thumbnail
 tile_images_keep_aspect(
     input_folder="input_pngs",
     output_path="tiled_output.png",
